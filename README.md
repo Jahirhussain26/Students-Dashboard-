@@ -120,33 +120,6 @@ git clone https://github.com/yourusername/Student-Performance-Analysis.git
 
 ---
 
-## 📈 Future Improvements
 
-- Subject-wise performance analysis
-- Predictive analytics using Machine Learning
-- Real-time data integration
-- AI-powered insights in Power BI
-
----
-
-## 👨‍💻 Author
-
-**Jahir Hussain**
-
-📊 Aspiring Data Analyst
-
-### Skills
-
-- Power BI
-- SQL
-- Python
-- Excel
-- Pandas
-- NumPy
-- Data Visualization
-
----
-
-## ⭐ Support
-
-If you found this project helpful, please consider **starring ⭐ this repository** and sharing your feedback.
+# Screenshots
+Example:https://github.com/Jahirhussain26/Students-Dashboard-/blob/main/Students%20Dashboard.png
