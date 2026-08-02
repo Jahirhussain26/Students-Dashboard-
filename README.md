@@ -67,8 +67,6 @@ Student-Performance-Analysis/
 
 ## 📷 Dashboard Preview
 
-> Add your dashboard screenshot below.
-
-![Dashboard](images/dashboard.png)
+![Dashboard] ([images/dashboard.png](https://github.com/Jahirhussain26/Students-Dashboard-/blob/main/Students%20Dashboard.png))
 
 
